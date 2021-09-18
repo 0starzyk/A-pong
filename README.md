@@ -4,5 +4,6 @@ A little game for **Windows** inspired by pong. It is written in **C++** from sc
 ### Building project
 Basic **Makefile**.
 ```sh
+cd A-pong
 make
 ```
