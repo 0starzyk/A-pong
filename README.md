@@ -3,7 +3,7 @@
 ### About
 A little game for **Windows** inspired by pong. It is written in **C++** from scratch. A-pong uses ASCII characters for rendering.
 ### Building project
-Basic **Makefile**.
+Basic **Makefile**:
 ```sh
 cd A-pong
 make
